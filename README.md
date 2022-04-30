@@ -3,7 +3,7 @@
 
 
  - 🔭 Atualmente estudando desenvolvimento web Front-end
- - 🌱 Estudando: HTML / CSS3 / JAVASCRIPT / SISTEMA DE CONTROLE E VERSÃO
+ - 🌱 Estudando: HTML / CSS3 / JAVASCRIPT 
  - 😄 Pronouns: ele/dele
  - 🎓 Graduando em Engenharia Automotiva
  
