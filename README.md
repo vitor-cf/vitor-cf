@@ -5,7 +5,7 @@
  - 🔭 Atualmente estudando desenvolvimento web Front-end
  - 🌱 Estudando: HTML / CSS3 / JAVASCRIPT 
  - 😄 Pronouns: ele/dele
- - 🎓 Graduando em Engenharia Automotiva
+ - 🎓 Graduando em Engenharia de Software
  
  <div align="center">
   <a href="https://github.com/vitor-cf">
