@@ -2,8 +2,8 @@
 
 
 
- - 🔭 Atualmente estudando desenvolvimento web Front-end
- - 🌱 Estudando: HTML / CSS3 / JAVASCRIPT 
+ - 🔭 Desenvolvedor Front-end
+ - 🌱 Estudando: HTML / CSS3 / JAVASCRIPT / REACT
  - 😄 Pronouns: ele/dele
  - 🎓 Graduando em Engenharia de Software
  
